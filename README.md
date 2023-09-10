@@ -1,1 +1,1 @@
-# html-curriculum
+# curriculum-html
